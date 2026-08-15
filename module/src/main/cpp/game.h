@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.pi.czrxdfirst"
+#define GamePackageName "com.cyhcxkk.kz"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
